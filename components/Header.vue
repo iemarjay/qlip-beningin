@@ -50,7 +50,7 @@
           </nuxt-link>
 
           <nuxt-link to="/#team" class="mr-3 lg:mx-3 lg:mx-6 my-3">
-            <span>Description</span>
+            <span>FAQs</span>
           </nuxt-link>
         </div>
       </div>

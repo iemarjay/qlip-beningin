@@ -16,6 +16,7 @@ module.exports = {
       "yellow-reddish": "#974610",
       white: "#FFFFFF",
       "gray-900": "#202020",
+      "gray-950": "#303030",
       black: "#000000",
 
       // Configure your color palette here
