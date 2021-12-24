@@ -13,8 +13,9 @@
         <p class="text-xl max-w-2/3 mx-auto mb-3">
           Secondary sales market is available at OpenSea.io
         </p>
-        <a href="https://opensea.io/collection/beningin-collectible-series"
-          class="bg-gradient-to-r from-yellow to-yellow-reddish py-4 px-5 rounded-md"
+        <a
+          href="https://opensea.io/collection/beningin-collectible-series"
+          class="bg-gradient-to-r from-yellow to-yellow-reddish py-4 px-5 rounded-md inline-block"
         >
           Opensea (Polygon chain)
         </a>

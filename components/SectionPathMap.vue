@@ -48,21 +48,25 @@
             <div class="mb-8">
               <img src="/icon-battle-net.png" class="mx-auto h-5 my-2.5" />
               <p class="">
-                GIN holders have access to future drops and airdrops of mainstream artists NFTs and higher consideration for whitelist activities on the QLIP platform.
+                GIN holders have access to future drops and airdrops of
+                mainstream artists NFTs and higher consideration for whitelist
+                activities on the QLIP platform.
               </p>
             </div>
 
             <div class="mb-8">
               <img src="/contact.png" class="mx-auto h-5 my-2.5" />
               <p class="">
-                GINs will be your skins, look, apparel, and more in the QLIP African-centric Metaverse.
+                GINs will be your skins, look, apparel, and more in the QLIP
+                African-centric Metaverse.
               </p>
             </div>
 
             <div class="mb-8">
               <img src="/icon-hexagon.png" class="mx-auto h-5 my-2.5" />
               <p class="">
-                Gin holders will get quality, Gin swag in hoodies, Afro-pop outfits, T-shirts etc.
+                Gin holders will get quality, Gin swag in hoodies, Afro-pop
+                outfits, T-shirts etc.
               </p>
             </div>
           </div>

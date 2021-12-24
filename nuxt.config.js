@@ -24,6 +24,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
+    // https://google-fonts.nuxtjs.org/setup
+    '@nuxtjs/google-fonts',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -37,6 +39,13 @@ export default {
     manifest: {
       lang: "en",
     },
+  },
+
+  // https://google-fonts.nuxtjs.org/options
+  googleFonts: {
+    families: {
+      Podkova: [100, 200, 300, 400, 500, 600, 700],
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
