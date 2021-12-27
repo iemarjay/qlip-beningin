@@ -36,7 +36,7 @@
             <span>How to buy</span>
           </nuxt-link>
 
-          <nuxt-link to="/#rarity" class="mr-3 lg:mx-3 lg:mx-6 my-3">
+          <nuxt-link to="/rarity-logic" class="mr-3 lg:mx-3 lg:mx-6 my-3">
             <span>Rarity Logic</span>
           </nuxt-link>
 

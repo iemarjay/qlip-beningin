@@ -22,8 +22,8 @@ module.exports = {
       // Configure your color palette here
     },
     fontFamily: {
-      'body': ['Podkova']
-    }
+      body: ["Podkova"],
+    },
   },
   variants: {
     extend: {},
