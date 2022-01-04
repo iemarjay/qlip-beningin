@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="bg-black text-white font-body">
     <section-hero />
     <section-features />
     <section-rarity-logic />
@@ -11,6 +11,6 @@
 <script>
 export default {
   name: "IndexPage",
-  layout: "home",
+  // layout: "home",
 }
 </script>

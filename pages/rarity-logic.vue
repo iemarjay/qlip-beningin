@@ -1,30 +1,32 @@
 <template>
   <div class="bg-gray-950 font-body">
-    <div class="max-w-6xl px-4 mx-auto py-10">
-      <button class="">
+    <div class="max-w-6xl px-4 mx-auto pt-10">
+      <button class=""  @click="$router.go(-1)">
         <icons-back class="h-6 w-6" />
       </button>
     </div>
-    <div class="max-w-xl px-4 mx-auto py-10 text-center">
-      <h2 class="text-yellow text-2xl font-bold text-center mb-8">
-        1ST GENERATION GIN RELEASE
-      </h2>
-      <div class="max-w-md mx-auto text-white mb-6">
-        AFRICAN TRIBES = 28 <br />
-        PRIMARY CHARACTERS = 35 <br />
-        RARITY LEVELS = 5 <br />
-        NO OF VARIATIONS = 14
-      </div>
-      <p class="text-yellow">TOTAL SUPPLY - 490</p>
-    </div>
 
-    <div class="max-w-6xl px-4 mx-auto py-10">
-      <div class="text-yellow text-2xl font-bold text-center mb-8">
-        RARITY DISTRIBUTION
+    <div class="bg-rarity-logic">
+      <div class="max-w-xl px-4 mx-auto pb-10 pt-20 text-center">
+        <h2 class="text-yellow text-2xl font-bold text-center mb-8">
+          1ST GENERATION GIN RELEASE
+        </h2>
+        <div class="max-w-md mx-auto text-white mb-6">
+          AFRICAN TRIBES = 28 <br />
+          PRIMARY CHARACTERS = 35 <br />
+          RARITY LEVELS = 5 <br />
+          NO OF VARIATIONS = 14
+        </div>
+        <p class="text-yellow">TOTAL SUPPLY - 490</p>
       </div>
 
-      <table class="table text-white w-full">
-        <thead>
+      <div class="max-w-6xl px-4 mx-auto py-10">
+        <div class="text-yellow text-2xl font-bold text-center mb-8">
+          RARITY DISTRIBUTION
+        </div>
+
+        <table class="table text-white w-full">
+          <thead>
           <tr class="text-yellow">
             <td class="py-3 px-3 md:w-40">AFRICAN REGION</td>
             <td class="py-3 px-3">
@@ -32,8 +34,8 @@
             </td>
             <td class="py-3 px-3 md:w-48"></td>
           </tr>
-        </thead>
-        <tbody>
+          </thead>
+          <tbody>
           <tr>
             <td class="py-3 px-3">WEST AFRICA</td>
             <td class="py-3 px-3">
@@ -194,8 +196,9 @@
             </td>
             <td class="py-3 px-3"></td>
           </tr>
-        </tbody>
-      </table>
+          </tbody>
+        </table>
+      </div>
     </div>
 
     <div class="max-w-4xl px-4 mx-auto py-10">
@@ -680,5 +683,11 @@ table td {
 }
 .table-2 td:not(.text-left) {
   text-align: center;
+}
+.bg-rarity-logic {
+  background-image: url("/bg-rarity-logic.png");
+  background-size: 80%;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
 </style>
