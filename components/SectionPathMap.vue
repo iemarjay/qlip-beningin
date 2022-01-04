@@ -3,7 +3,7 @@
     <div class="py-10">
       <div class="md:max-w-6xl mx-auto text-center px-10 py-4 text-center">
         <router-link to="/rarity-logic"
-          class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-16 block"
+          class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-16 inline-block"
         >
           FOLLOW THIS PATH TO SEE THE RARITY LOGIC
         </router-link>
@@ -30,7 +30,7 @@
           </div>
 
           <a href="https://qlipit-io.medium.com/the-beninigin-series-qlips-first-p2e-nft-game-ea4fa2497643?source=user_profile---------4-------------------------------"
-            class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-6 block"
+            class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-6 inline-block"
           >
             FOLLOW THIS PATH TO KNOW MORE ABOUT THE BENINGIN SERIES GAME
           </a>
