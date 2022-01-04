@@ -2,11 +2,11 @@
   <section class="bg-gray-900">
     <div class="py-10">
       <div class="md:max-w-6xl mx-auto text-center px-10 py-4 text-center">
-        <button
+        <router-link to="/rarity-logic"
           class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-16"
         >
           FOLLOW THIS PATH TO SEE THE RARITY LOGIC
-        </button>
+        </router-link>
 
         <h2 class="text-yellow text-3xl font-bold text-center mb-16">
           BENINGIN COLLECTIBLE UTILITY
@@ -29,11 +29,11 @@
             </p>
           </div>
 
-          <button
+          <a href="https://qlipit-io.medium.com/the-beninigin-series-qlips-first-p2e-nft-game-ea4fa2497643?source=user_profile---------4-------------------------------"
             class="bg-gradient-to-r from-yellow to-yellow-reddish text-white py-4 px-5 rounded-md mb-6"
           >
             FOLLOW THIS PATH TO KNOW MORE ABOUT THE BENINGIN SERIES GAME
-          </button>
+          </a>
           <img src="/chief.png" class="max-w-sm mx-auto" />
 
           <div class="max-w-md mx-auto my-10">

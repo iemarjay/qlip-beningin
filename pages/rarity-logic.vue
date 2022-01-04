@@ -355,7 +355,7 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Epic Rarity Supply - 14
+            EpicX Rarity Supply - 14
           </div>
         </div>
 

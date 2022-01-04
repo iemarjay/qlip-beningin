@@ -45,7 +45,7 @@
           </nuxt-link>
 
           <nuxt-link to="/#team" class="mr-3 lg:mx-3 lg:mx-6 my-3">
-            <span>Instructions</span>
+            <span>NFT Utility</span>
           </nuxt-link>
 
           <nuxt-link to="/#team" class="mr-3 lg:mx-3 lg:mx-6 my-3">
