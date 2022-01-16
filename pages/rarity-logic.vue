@@ -358,7 +358,6 @@
         </div>
 
         <div class="flex items-center mb-4">
-          <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>Total Supply equal to 490</div>
         </div>
       </div>
