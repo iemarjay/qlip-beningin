@@ -32,7 +32,7 @@
           class="md:block text-base lg:text-lg font-medium w-full md:w-auto flex flex-col md:flex-row"
           :class="{ hidden: showMobileNav }"
         >
-          <nuxt-link to="/#marketplace" class="mr-3 lg:mx-3 lg:mx-6 my-3">
+          <nuxt-link to="/how-to-buy" class="mr-3 lg:mx-3 lg:mx-6 my-3">
             <span>How to buy</span>
           </nuxt-link>
 
@@ -40,11 +40,11 @@
             <span>Rarity Logic</span>
           </nuxt-link>
 
-          <nuxt-link to="/#token" class="mr-3 lg:mx-3 lg:mx-6 my-3">
+          <nuxt-link to="/#roadmap" class="mr-3 lg:mx-3 lg:mx-6 my-3">
             <span>Roadmap</span>
           </nuxt-link>
 
-          <nuxt-link to="/#team" class="mr-3 lg:mx-3 lg:mx-6 my-3">
+          <nuxt-link to="/#utility" class="mr-3 lg:mx-3 lg:mx-6 my-3">
             <span>NFT Utility</span>
           </nuxt-link>
 
