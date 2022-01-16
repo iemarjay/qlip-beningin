@@ -8,7 +8,7 @@
           <div
             class="max-w-md md:max-w-xl mx-auto text-center px-10 py-4 text-white bg-purple-darker rounded-md"
           >
-            <h2 class="text-yellow font-bold text-3xl">SOLD OUT</h2>
+            <h2 class="text-yellow font-bold text-3xl">BUY NOW</h2>
             <p class="text-2xl max-w-half mx-auto">
               All Beningin Collectibles have been minted.
             </p>
@@ -25,7 +25,8 @@
             </a>
           </div>
         </div>
-      </div></div>
+      </div>
+    </div>
 
     <div class="relative">
       <div class="hero-bg-rock"></div>
@@ -36,14 +37,15 @@
           >
             <p class="max-w-sm text-white mb-8 mx-auto">
               In the “Beningin” there were 50 founding tribes of Africa, 28 were
-              launched first to start the 1st generation,and those 29 each
-              multiplied by 14 to become 490 strong and courageous GINS.
+              launched first to start the 1st generation,and the 35 Characters
+              of those tribes multiplied by 14 to become 490 strong and
+              courageous GINS.
             </p>
 
             <p class="max-w-sm text-white mx-auto">
               They are called GINs and BENINGIN is their movement, a movement to
-              educate and remind Africans of the riches they hold in their lands and
-              in their mind and in their heart.
+              educate and remind Africans of the riches they hold in their lands
+              and in their mind and in their heart.
             </p>
           </div>
         </div>

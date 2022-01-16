@@ -1,5 +1,7 @@
 <template>
-  <section class="bg-image-features bg-contain bg-no-repeat bg-center bg-yellow-darkest">
+  <section
+    class="bg-image-features bg-contain bg-no-repeat bg-center bg-yellow-darkest"
+  >
     <div class="max-w-4xl px-4 py-4 mx-auto">
       <h2 class="text-yellow text-3xl font-bold text-center mb-16">
         FEATURES OF THE GIN COLLECTIBLE

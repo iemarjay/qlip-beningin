@@ -5,7 +5,11 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "In the “Beningin” there were 50 founding tribes of Africa, 28 were launched first to start the 1st generation,and those 29 each multiplied by 14 to become 490 strong and courageous GINS." },
+      {
+        hid: "description",
+        name: "description",
+        content: "The first Non-Generative collection on African tribes.",
+      },
       { name: "format-detection", content: "telephone=no" },
       { hid: "theme-color", name: "theme-color", content: "#2A2A3C" },
       { hid: "author", name: "author", content: "Qlip" },
@@ -20,13 +24,13 @@ export default {
         name: "apple-mobile-web-app-status-bar-style",
         content: "#2A2A3C",
       },
-      { property: "og:site_name", name: "og:site_name", content: "Qlip" },
+      { property: "og:site_name", name: "og:site_name", content: "Beningin" },
     ],
     link: [
-      { rel: "icon", type: "image/png", href: "/icon.png" },
-      { rel: "shortcut icon", href: "/icon.png" },
+      { rel: "icon", type: "image/png", href: "/gin.png" },
+      { rel: "shortcut icon", href: "/gin.png" },
     ],
-},
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
@@ -61,7 +65,7 @@ export default {
         "In the “Beningin” there were 50 founding tribes of Africa, 28 were launched first to start the 1st generation,and those 29 each multiplied by 14 to become 490 strong and courageous GINS.",
     },
     icon: {
-      source: "/icon.jpeg",
+      source: "/gin.png",
     },
   },
 

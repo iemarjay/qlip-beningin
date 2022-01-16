@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-950 font-body">
     <div class="max-w-6xl px-4 mx-auto pt-10">
-      <button class=""  @click="$router.go(-1)">
+      <button class="" @click="$router.go(-1)">
         <icons-back class="h-6 w-6" />
       </button>
     </div>
@@ -27,175 +27,175 @@
 
         <table class="table text-white w-full">
           <thead>
-          <tr class="text-yellow">
-            <td class="py-3 px-3 md:w-40">AFRICAN REGION</td>
-            <td class="py-3 px-3">
-              REGION AND TRIBE / NO. OF COLLECTIBLE/ RARITY LEVELS
-            </td>
-            <td class="py-3 px-3 md:w-48"></td>
-          </tr>
+            <tr class="text-yellow">
+              <td class="py-3 px-3 md:w-40">AFRICAN REGION</td>
+              <td class="py-3 px-3">
+                REGION AND TRIBE / NO. OF COLLECTIBLE/ RARITY LEVELS
+              </td>
+              <td class="py-3 px-3 md:w-48"></td>
+            </tr>
           </thead>
           <tbody>
-          <tr>
-            <td class="py-3 px-3">WEST AFRICA</td>
-            <td class="py-3 px-3">
-              <p class="mb-3">
-                2 Legendary rarity characters <br />
-                Region: Southern Nigeria <br />
-                Tribe: Urhobo <br />
-                Collectible: John Oghene (Male)
-              </p>
+            <tr>
+              <td class="py-3 px-3">WEST AFRICA</td>
+              <td class="py-3 px-3">
+                <p class="mb-3">
+                  2 Legendary rarity characters <br />
+                  Region: Southern Nigeria <br />
+                  Tribe: Urhobo <br />
+                  Collectible: John Oghene (Male)
+                </p>
 
-              <p class="mb-3">
-                Region: Eastern Nigeria <br />
-                Tribe: Igbo <br />
-                Collectible: Peter Chukwu (Male)
-              </p>
+                <p class="mb-3">
+                  Region: Eastern Nigeria <br />
+                  Tribe: Igbo <br />
+                  Collectible: Peter Chukwu (Male)
+                </p>
 
-              <p class="mb-3">
-                3 Epic rarity characters <br />
-                Region: Southern Nigeria <br />
-                Tribe: Benin (F) <br />
-              </p>
+                <p class="mb-3">
+                  3 Epic rarity characters <br />
+                  Region: Southern Nigeria <br />
+                  Tribe: Benin (F) <br />
+                </p>
 
-              <p class="mb-3">
-                Region: Southern Nigeria <br />
-                Tribe: Efik (M&F)
-              </p>
+                <p class="mb-3">
+                  Region: Southern Nigeria <br />
+                  Tribe: Efik (M&F)
+                </p>
 
-              <p class="mb-3">
-                2 Rare rarity character <br />
-                Region: Western Nigeria <br />
-                Tribe: Yoruba (M&F)
-              </p>
+                <p class="mb-3">
+                  2 Rare rarity character <br />
+                  Region: Western Nigeria <br />
+                  Tribe: Yoruba (M&F)
+                </p>
 
-              <p class="mb-3">
-                Region: Southern Ghana <br />
-                Tribe: Ashanti (M)
-              </p>
+                <p class="mb-3">
+                  Region: Southern Ghana <br />
+                  Tribe: Ashanti (M)
+                </p>
 
-              <p class="mb-3">
-                2 Uncommon rarity character <br />
-                Region: West Central, Côte d’ivoire <br />
-                Tribe: Gouro, Kweni (F)
-              </p>
+                <p class="mb-3">
+                  2 Uncommon rarity character <br />
+                  Region: West Central, Côte d’ivoire <br />
+                  Tribe: Gouro, Kweni (F)
+                </p>
 
-              <p>
-                Region: North West, Senegal <br />
-                Tribe: Wolof (F)
-              </p>
-            </td>
-            <td class="py-3 px-3">
-              Please Note that M&F indicates that the characters are 2; 1 Male
-              and 1 Female.
-            </td>
-          </tr>
+                <p>
+                  Region: North West, Senegal <br />
+                  Tribe: Wolof (F)
+                </p>
+              </td>
+              <td class="py-3 px-3">
+                Please Note that M&F indicates that the characters are 2; 1 Male
+                and 1 Female.
+              </td>
+            </tr>
 
-          <tr>
-            <td class="py-3 px-3">EAST AFRICA</td>
-            <td class="py-3 px-3">
-              <p class="mb-3">
-                3 Common rarity character <br />
-                Region: Southern, Niger Republic <br />
-                Tribe: Hausa (M)
-              </p>
+            <tr>
+              <td class="py-3 px-3">EAST AFRICA</td>
+              <td class="py-3 px-3">
+                <p class="mb-3">
+                  3 Common rarity character <br />
+                  Region: Southern, Niger Republic <br />
+                  Tribe: Hausa (M)
+                </p>
 
-              <p class="mb-3">
-                Region: Guinea Bissau <br />
-                Tribe: Fulani (F)
-              </p>
+                <p class="mb-3">
+                  Region: Guinea Bissau <br />
+                  Tribe: Fulani (F)
+                </p>
 
-              <p class="mb-3">
-                Region: Mali <br />
-                Tribe: Bambara (M)
-              </p>
+                <p class="mb-3">
+                  Region: Mali <br />
+                  Tribe: Bambara (M)
+                </p>
 
-              <p>
-                1 Common rarity character <br />
-                Region: Togo Central <br />
-                Tribe: Ewe (M)
-              </p>
-            </td>
-            <td></td>
-          </tr>
+                <p>
+                  1 Common rarity character <br />
+                  Region: Togo Central <br />
+                  Tribe: Ewe (M)
+                </p>
+              </td>
+              <td></td>
+            </tr>
 
-          <tr>
-            <td class="py-3 px-3">SOUTHERN AFRICA</td>
-            <td class="py-3 px-3">
-              <p class="mb-3">
-                1 Legendary rarity character <br />
-                Region: South Africa <br />
-                Tribe: AmaXhosa <br />
-                Collectible: Pauline Nkulukulu (Female)
-              </p>
+            <tr>
+              <td class="py-3 px-3">SOUTHERN AFRICA</td>
+              <td class="py-3 px-3">
+                <p class="mb-3">
+                  1 Legendary rarity character <br />
+                  Region: South Africa <br />
+                  Tribe: AmaXhosa <br />
+                  Collectible: Pauline Nkulukulu (Female)
+                </p>
 
-              <p class="mb-3">
-                1 Uncommon rarity <br />
-                Region: South Africa <br />
-                Tribe: Zulu (M) <br />
-              </p>
+                <p class="mb-3">
+                  1 Uncommon rarity <br />
+                  Region: South Africa <br />
+                  Tribe: Zulu (M) <br />
+                </p>
 
-              <p class="mb-3">
-                2 Rare rarity <br />
-                Region: Botswana Central <br />
-                Tribe: Tswana Tribe (M&F)
-              </p>
+                <p class="mb-3">
+                  2 Rare rarity <br />
+                  Region: Botswana Central <br />
+                  Tribe: Tswana Tribe (M&F)
+                </p>
 
-              <p class="mb-3">
-                2 Common Rarity <br />
-                Region: Lesotho <br />
-                Tribe: Sotho (M)
-              </p>
+                <p class="mb-3">
+                  2 Common Rarity <br />
+                  Region: Lesotho <br />
+                  Tribe: Sotho (M)
+                </p>
 
-              <p class="">
-                Region: Botswana Central <br />
-                Tribe: Seshweshwe Tribe (F)
-              </p>
-            </td>
-            <td class="py-3 px-3"></td>
-          </tr>
+                <p class="">
+                  Region: Botswana Central <br />
+                  Tribe: Seshweshwe Tribe (F)
+                </p>
+              </td>
+              <td class="py-3 px-3"></td>
+            </tr>
 
-          <tr>
-            <td class="py-3 px-3">NORTH AFRICA</td>
-            <td class="py-3 px-3">
-              <p class="mb-3">
-                1 Legendary rarity character <br />
-                Region: Egypt <br />
-                Tribe: Coptic (Ancient Egypt) <br />
-                Collectible: James YHWH (Male)
-              </p>
+            <tr>
+              <td class="py-3 px-3">NORTH AFRICA</td>
+              <td class="py-3 px-3">
+                <p class="mb-3">
+                  1 Legendary rarity character <br />
+                  Region: Egypt <br />
+                  Tribe: Coptic (Ancient Egypt) <br />
+                  Collectible: James YHWH (Male)
+                </p>
 
-              <p class="mb-3">
-                1 Uncommon rarity character <br />
-                Region: Mauritania <br />
-                Tribe: Moors (F)
-              </p>
+                <p class="mb-3">
+                  1 Uncommon rarity character <br />
+                  Region: Mauritania <br />
+                  Tribe: Moors (F)
+                </p>
 
-              <p class="mb-3">
-                6 Common rarity character <br />
-                Region: Algeria <br />
-                Tribe: Tuarega (M&F)
-              </p>
+                <p class="mb-3">
+                  6 Common rarity character <br />
+                  Region: Algeria <br />
+                  Tribe: Tuarega (M&F)
+                </p>
 
-              <p class="mb-3">
-                Region: Libya Central <br />
-                Tribe: Arab (M&F)
-              </p>
-            </td>
-            <td class="py-3 px-3"></td>
-          </tr>
+                <p class="mb-3">
+                  Region: Libya Central <br />
+                  Tribe: Arab (M&F)
+                </p>
+              </td>
+              <td class="py-3 px-3"></td>
+            </tr>
 
-          <tr>
-            <td class="py-3 px-3">CENTRAL AFRICA</td>
-            <td class="py-3 px-3">
-              <p class="">
-                1 Epic rarity character <br />
-                Region: Cameroon <br />
-                Tribe: Bamileke (M&F)
-              </p>
-            </td>
-            <td class="py-3 px-3"></td>
-          </tr>
+            <tr>
+              <td class="py-3 px-3">CENTRAL AFRICA</td>
+              <td class="py-3 px-3">
+                <p class="">
+                  1 Epic rarity character <br />
+                  Region: Cameroon <br />
+                  Tribe: Bamileke (M&F)
+                </p>
+              </td>
+              <td class="py-3 px-3"></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -315,7 +315,7 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Common Rarity Supply - (9/35) * (490) <br>
+            Common Rarity Supply - (9/35) * (490) <br />
             126 Common characters
           </div>
         </div>
@@ -323,7 +323,7 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Uncommon Rarity Supply - (7/35) * (490) <br>
+            Uncommon Rarity Supply - (7/35) * (490) <br />
             98 Uncommon characters
           </div>
         </div>
@@ -331,7 +331,7 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Rare Rarity Sup <br>
+            Rare Rarity Sup <br />
             112 Rare characters
           </div>
         </div>
@@ -339,7 +339,7 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Epic Rarity Supply - (5/35) * (490) <br>
+            Epic Rarity Supply - (5/35) * (490) <br />
             70 Epic characters
           </div>
         </div>
@@ -347,25 +347,20 @@
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
           <div>
-            Legendary Rarity Supply - (5/35) * (490) <br>
+            Legendary Rarity Supply - (5/35) * (490) <br />
             70 Legendary character
           </div>
         </div>
 
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
-          <div>
-            EpicX Rarity Supply - 14
-          </div>
+          <div>EpicX Rarity Supply - 14</div>
         </div>
 
         <div class="flex items-center mb-4">
           <img alt="bullet" class="h-5 mr-2" src="/bullet-spear.png" />
-          <div>
-            Total Supply equal to 490
-          </div>
+          <div>Total Supply equal to 490</div>
         </div>
-
       </div>
     </div>
 
@@ -378,199 +373,199 @@
 
       <table class="table table-2 text-white w-full mb-16">
         <thead>
-        <tr class="text-yellow-darker">
-          <td>PROPERTY</td>
-          <td>John Oghene</td>
-          <td>Peter Chukwu</td>
-          <td>Pauline Mungu</td>
-        </tr>
+          <tr class="text-yellow-darker">
+            <td>PROPERTY</td>
+            <td>John Oghene</td>
+            <td>Peter Chukwu</td>
+            <td>Pauline Mungu</td>
+          </tr>
         </thead>
 
         <tbody>
-        <tr>
-          <td>Name</td>
-          <td>John Oghene</td>
-          <td>Peter Chukwu</td>
-          <td>Pauline Mungu</td>
-        </tr>
+          <tr>
+            <td>Name</td>
+            <td>John Oghene</td>
+            <td>Peter Chukwu</td>
+            <td>Pauline Mungu</td>
+          </tr>
 
-        <tr>
-          <td>Gender</td>
-          <td>Male</td>
-          <td>Male</td>
-          <td>Female</td>
-        </tr>
+          <tr>
+            <td>Gender</td>
+            <td>Male</td>
+            <td>Male</td>
+            <td>Female</td>
+          </tr>
 
-        <tr>
-          <td>African Tribe</td>
-          <td>Urhobo</td>
-          <td>Igbo</td>
-          <td>Maasai</td>
-        </tr>
+          <tr>
+            <td>African Tribe</td>
+            <td>Urhobo</td>
+            <td>Igbo</td>
+            <td>Maasai</td>
+          </tr>
 
-        <tr>
-          <td>Region</td>
-          <td>Southern Nigeria</td>
-          <td>Eastern Nigeria</td>
-          <td>Kenya Central</td>
-        </tr>
+          <tr>
+            <td>Region</td>
+            <td>Southern Nigeria</td>
+            <td>Eastern Nigeria</td>
+            <td>Kenya Central</td>
+          </tr>
 
-        <tr>
-          <td>Top Apparel colour</td>
-          <td>White</td>
-          <td>RED, Brown, Black</td>
-          <td>Maroon, Navy Blue</td>
-        </tr>
+          <tr>
+            <td>Top Apparel colour</td>
+            <td>White</td>
+            <td>RED, Brown, Black</td>
+            <td>Maroon, Navy Blue</td>
+          </tr>
 
-        <tr>
-          <td>Top Apparel Name</td>
-          <td>Urhobo Lace</td>
-          <td>Ichie Isiagu</td>
-          <td>Shuta</td>
-        </tr>
+          <tr>
+            <td>Top Apparel Name</td>
+            <td>Urhobo Lace</td>
+            <td>Ichie Isiagu</td>
+            <td>Shuta</td>
+          </tr>
 
-        <tr>
-          <td>Top Apparel Pattern</td>
-          <td>Flowery Pattern</td>
-          <td>Lion Head</td>
-          <td>Check pattern</td>
-        </tr>
+          <tr>
+            <td>Top Apparel Pattern</td>
+            <td>Flowery Pattern</td>
+            <td>Lion Head</td>
+            <td>Check pattern</td>
+          </tr>
 
-        <tr>
-          <td>Hat Colour</td>
-          <td>Black</td>
-          <td>Red</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Hat Colour</td>
+            <td>Black</td>
+            <td>Red</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Hat Name</td>
-          <td>Ibori Hat</td>
-          <td>Okpu Ozo</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Hat Name</td>
+            <td>Ibori Hat</td>
+            <td>Okpu Ozo</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Skin colour</td>
-          <td>Brown</td>
-          <td>Brown</td>
-          <td>Ebony</td>
-        </tr>
+          <tr>
+            <td>Skin colour</td>
+            <td>Brown</td>
+            <td>Brown</td>
+            <td>Ebony</td>
+          </tr>
 
-        <tr>
-          <td>Hair colour</td>
-          <td>None</td>
-          <td>None</td>
-          <td>Black</td>
-        </tr>
+          <tr>
+            <td>Hair colour</td>
+            <td>None</td>
+            <td>None</td>
+            <td>Black</td>
+          </tr>
 
-        <tr>
-          <td>Right Hand Accessory</td>
-          <td>Walking Stick</td>
-          <td>Bead</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Right Hand Accessory</td>
+            <td>Walking Stick</td>
+            <td>Bead</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Left Hand Accessory</td>
-          <td>Urhobo hand bead</td>
-          <td>Akupe - Chieftancy Hand Fan</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Left Hand Accessory</td>
+            <td>Urhobo hand bead</td>
+            <td>Akupe - Chieftancy Hand Fan</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Neck Accessory</td>
-          <td>Urhobo newck bead</td>
-          <td>None</td>
-          <td class="text-left">
-            1. White Collar Necklace <br>
-            2. Black, yellow, ash String Bead work <br>
-            3. Multi coloured Beaded disc
-          </td>
-        </tr>
+          <tr>
+            <td>Neck Accessory</td>
+            <td>Urhobo newck bead</td>
+            <td>None</td>
+            <td class="text-left">
+              1. White Collar Necklace <br />
+              2. Black, yellow, ash String Bead work <br />
+              3. Multi coloured Beaded disc
+            </td>
+          </tr>
 
-        <tr>
-          <td>Shoes</td>
-          <td>Black</td>
-          <td>Black</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Shoes</td>
+            <td>Black</td>
+            <td>Black</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Bottom Apparel Colour</td>
-          <td>Purple</td>
-          <td>Dark Brown, Coffe Brown</td>
-          <td>Grey</td>
-        </tr>
+          <tr>
+            <td>Bottom Apparel Colour</td>
+            <td>Purple</td>
+            <td>Dark Brown, Coffe Brown</td>
+            <td>Grey</td>
+          </tr>
 
-        <tr>
-          <td>Bottom Apparel Name</td>
-          <td>George</td>
-          <td>Traditional Wrapper</td>
-          <td>Grey</td>
-        </tr>
+          <tr>
+            <td>Bottom Apparel Name</td>
+            <td>George</td>
+            <td>Traditional Wrapper</td>
+            <td>Grey</td>
+          </tr>
 
-        <tr>
-          <td>Bottom Apparel Pattern</td>
-          <td>Flowery design</td>
-          <td>Check Pattern</td>
-          <td>Plain</td>
-        </tr>
+          <tr>
+            <td>Bottom Apparel Pattern</td>
+            <td>Flowery design</td>
+            <td>Check Pattern</td>
+            <td>Plain</td>
+          </tr>
 
-        <tr>
-          <td>Facial Features</td>
-          <td>Ears</td>
-          <td>Ears</td>
-          <td>Ears</td>
-        </tr>
+          <tr>
+            <td>Facial Features</td>
+            <td>Ears</td>
+            <td>Ears</td>
+            <td>Ears</td>
+          </tr>
         </tbody>
       </table>
 
       <table class="table table-2 text-white w-full">
         <thead>
-        <tr class="text-yellow-darker">
-          <td>Ear Accesories</td>
-          <td></td>
-          <td></td>
-          <td>Earings</td>
-        </tr>
+          <tr class="text-yellow-darker">
+            <td>Ear Accesories</td>
+            <td></td>
+            <td></td>
+            <td>Earings</td>
+          </tr>
         </thead>
 
         <tbody>
-        <tr>
-          <td>Face Halo</td>
-          <td>White</td>
-          <td>White(Elipses Circle)</td>
-          <td>Pauline Mungu</td>
-        </tr>
+          <tr>
+            <td>Face Halo</td>
+            <td>White</td>
+            <td>White(Elipses Circle)</td>
+            <td>Pauline Mungu</td>
+          </tr>
 
-        <tr>
-          <td>Hand Halo</td>
-          <td>White</td>
-          <td>None</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Hand Halo</td>
+            <td>White</td>
+            <td>None</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Button Colour</td>
-          <td>Black</td>
-          <td>None</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Button Colour</td>
+            <td>Black</td>
+            <td>None</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Finger Nail Colour</td>
-          <td>Peach</td>
-          <td>Peach</td>
-          <td>None</td>
-        </tr>
+          <tr>
+            <td>Finger Nail Colour</td>
+            <td>Peach</td>
+            <td>Peach</td>
+            <td>None</td>
+          </tr>
 
-        <tr>
-          <td>Ankle Accesory</td>
-          <td>None</td>
-          <td>None</td>
-          <td>Orange Colour Anklet</td>
-        </tr>
+          <tr>
+            <td>Ankle Accesory</td>
+            <td>None</td>
+            <td>None</td>
+            <td>Orange Colour Anklet</td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -591,7 +586,6 @@
         </div>
       </div>
     </div>
-
   </div>
 </template>
 
@@ -607,64 +601,62 @@ export default {
       ],
 
       tribes: [
-"Efik Tribe - Nigeria",
+        "Efik Tribe - Nigeria",
 
-"Zulu Tribe - South Africa",
+        "Zulu Tribe - South Africa",
 
-"Chechewa Tribe - Malawi",
+        "Chechewa Tribe - Malawi",
 
-"Benin Tribe - Nigeria",
+        "Benin Tribe - Nigeria",
 
-"Bamileke Tribe - Cameroon",
+        "Bamileke Tribe - Cameroon",
 
-"Arab Tribe - Libya",
+        "Arab Tribe - Libya",
 
-"Bambara Tribe - Mali",
+        "Bambara Tribe - Mali",
 
-"Ewe Tribe - Togo",
+        "Ewe Tribe - Togo",
 
-"Fulani Tribe - Guinea Bissau",
+        "Fulani Tribe - Guinea Bissau",
 
-"Hausa Tribe - Niger",
+        "Hausa Tribe - Niger",
 
-"Kikuyu Tribe - Tanzania",
+        "Kikuyu Tribe - Tanzania",
 
-"Sotho Tribe - Lesotho",
+        "Sotho Tribe - Lesotho",
 
-"Tuareg Tribe - Algeria",
+        "Tuareg Tribe - Algeria",
 
-"Igbo Tribe - Nigeria",
+        "Igbo Tribe - Nigeria",
 
-"Urhobo - Nigeria",
+        "Urhobo - Nigeria",
 
-"Yoruba Ashanti - Ghana",
+        "Yoruba Ashanti - Ghana",
 
-"Guoro Kweni - Côte d’ivoire",
+        "Guoro Kweni - Côte d’ivoire",
 
-"Woloof - Senegal",
+        "Woloof - Senegal",
 
-"Masaai - Kenya",
+        "Masaai - Kenya",
 
-"Oromo - Ethiopia",
+        "Oromo - Ethiopia",
 
-"Sukuma - Tanzania",
+        "Sukuma - Tanzania",
 
-"Hutu - Rwanda",
+        "Hutu - Rwanda",
 
-"AmaXhosa South - South Africa",
+        "AmaXhosa South - South Africa",
 
-"Ashanti - Ghana",
+        "Ashanti - Ghana",
 
-"Tswana - Botswana",
+        "Tswana - Botswana",
 
-"Sheshweshe - Botswana",
+        "Sheshweshe - Botswana",
 
-"Coptic - Egypt",
+        "Coptic - Egypt",
 
-"Moors - Mauritania",
-
-
-      ]
+        "Moors - Mauritania",
+      ],
     }
   },
 }
