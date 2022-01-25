@@ -9,11 +9,17 @@
     <div class="bg-rarity-logic">
       <div class="max-w-xl px-4 mx-auto pb-10 pt-20 text-yellow">
         <h2 class="text-yellow text-2xl font-bold text-center mb-8">
+          GIN PRICES
+        </h2>
+
+        <div class="max-w-lg mx-auto text-yellow mb-6">
+        </div>
+
+        <h2 class="text-yellow text-2xl font-bold text-center mb-8">
           HOW TO BUY
         </h2>
 
         <div class="max-w-lg mx-auto text-yellow mb-6">
-          <iframe width="100%" height="400" src="https://www.youtube.com/embed/iNQYsjph0_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -44,7 +50,7 @@ table td {
   text-align: center;
 }
 .bg-rarity-logic {
-  background-image: url("/bg-rarity-logic.png");
+  background-image: url("/static/bg-rarity-logic.png");
   background-size: 80%;
   background-position: top center;
   background-repeat: no-repeat;

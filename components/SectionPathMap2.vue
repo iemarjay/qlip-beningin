@@ -37,7 +37,7 @@
           </div>
         </div>
       </div>
-      <div class="md:max-w-xl mx-auto text-center px-10 py-4">
+      <div class="md:max-w-xl mx-auto text-center px-10 py-4" id="roadmap">
         <h3 class="text-yellow font-bold text-lg mb-2 text-center">
           THE GIN PATH MAP
         </h3>

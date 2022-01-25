@@ -8,7 +8,7 @@
           <div
             class="max-w-md md:max-w-xl mx-auto text-center px-10 py-4 text-white bg-purple-darker rounded-md"
           >
-            <h2 class="text-yellow font-bold text-3xl">BUY NOW</h2>
+            <a href="https://opensea.io/collection/beningin-collectible-series" class="text-yellow font-bold text-3xl">BUY NOW</a>
             <p class="text-2xl max-w-half mx-auto">
               All Beningin Collectibles have been minted.
             </p>

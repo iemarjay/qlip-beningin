@@ -9,6 +9,7 @@ module.exports = {
       },
     },
     colors: {
+      "blue-link": "#3BB8FF",
       "purple-darker": "#241825",
       yellow: "#FBBF24",
       "yellow-dark": "#FFC01D",
